@@ -1,8 +1,8 @@
-document.getElementById('DP').addEventListener('click', myButton)
-document.getElementById('UH').addEventListener('click', myImage)
-document.getElementById('VB').addEventListener('click', myDisplay)
-document.getElementById('GB').addEventListener('click', myPost)
-document.getElementById('GW').addEventListener('click', myFunction)
+document.getElementById('dp').addEventListener('click', myButton)
+document.getElementById('uh').addEventListener('click', myImage)
+document.getElementById('vb').addEventListener('click', myDisplay)
+document.getElementById('gb').addEventListener('click', myPost)
+document.getElementById('gw').addEventListener('click', myFunction)
 function myButton() {
   document.getElementById('New').src = './images/D-pad.jpeg';
 }
