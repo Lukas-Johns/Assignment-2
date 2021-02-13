@@ -1,5 +1,5 @@
 .background {
- background-color: cornflowerblue;
+ background-color: coral;
 }
 .center {
  text-align: center;
@@ -12,11 +12,11 @@
  width: 50%;
 }
 .first {
- color: crimson;
+ color: royalblue;
  text-align: center;
 }
 .second {
-  color: crimson;
+  color: royalblue;
   text-align: center;
   font-size: 125%;
 }
