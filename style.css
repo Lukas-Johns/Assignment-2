@@ -1,19 +1,19 @@
 .background {
- background-color: coral;
+  background-color: coral;
 }
 .center {
- text-align: center;
- font-family: Times New Roman;
+  text-align: center;
+  font-family: Times New Roman;
 }
 .img1 {
- display: block;
- margin-left: auto;
- margin-right: auto;
- width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 .first {
- color: royalblue;
- text-align: center;
+  color: royalblue;
+  text-align: center;
 }
 .second {
   color: royalblue;
